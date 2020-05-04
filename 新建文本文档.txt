@@ -1,0 +1,24 @@
+主机临时域名：
+yq853631187.hkg03.bdysite.com
+独立控制面板：
+login.bcehost.com
+主机管理账号：
+yq853631187
+主机管理密码：
+***********
+FTP地址：
+yq853631187.ftp-hkg03.bcehost.com 端口号：21 复制ftp完整地址信息
+FTP登录账号：
+yq853631187
+FTP密码：
+***********
+MySQL连接地址：
+b-wzojttnxqnprxg.bch.rds.hkg.baidubce.com 端口号：3306 复制MySQL连接地址
+MySQL数据库名：
+b_wzojttnxqnprxg
+MySQL账号：
+b_wzojttnxqnprxg
+MySQL密码：
+*********** 
+管理联系人：
+残梦 183*****854 85******7@qq.com
